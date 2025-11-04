@@ -2,7 +2,7 @@
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+I updated my car dealership program to support selling and leasing vehicles. Now, when a customer buys or leases a car, the system records a contract, calculates payments, and removes the car from inventory. I also set it up to save all contract records to a contracts file for tracking sales and leases.
 
 ## User Stories
 
