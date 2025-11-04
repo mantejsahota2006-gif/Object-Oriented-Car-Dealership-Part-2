@@ -8,8 +8,11 @@ I updated my car dealership program to support selling and leasing vehicles. Now
 
 List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
 
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
+- As a sales representative, I want to search vehicles by different criteria so that I can quickly find options for customers.
+- As a dealership employee, I want to sell a vehicle and record a sales contract so that customer purchases are tracked and the inventory stays accurate.
+- As a leasing agent, I want to create lease contracts only for eligible vehicles so that lease rules are followed and records are maintained.
+- As a finance employee, I want the system to calculate monthly payments for financed purchases and leases so that I can provide accurate payment plans to customers.
+- As a dealership manager, I want all contract and inventory changes saved to files so that data is persistent and available for review.
 
 ## Setup
 
